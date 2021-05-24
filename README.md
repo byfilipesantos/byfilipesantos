@@ -8,6 +8,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipe.santos@universo.univates.br")](mailto:filipe.santos@universo.univates.br)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=byfilipesantos&show_icons=true)](https://github.com/byfilipesantos)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=byfilipesantos&show_icons=true&locale=en&layout=compact" alt="byfilipesantos" />
 
 ### About me
 I'm a Computer Engineering student and I work as a Security Systems Assistant
+
+
+
